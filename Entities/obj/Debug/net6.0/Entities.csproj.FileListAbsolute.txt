@@ -1,0 +1,17 @@
+C:\Users\batur\source\repos\ReCarRental\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\batur\source\repos\ReCarRental\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\batur\source\repos\ReCarRental\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\batur\source\repos\ReCarRental\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\batur\source\repos\ReCarRental\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\batur\source\repos\ReCarRental\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\batur\source\repos\ReCarRental\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
